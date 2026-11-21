@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: #1E1E1E;
+    background: linear-gradient(rgb(50, 50, 56), rgb(91, 85, 158), rgb(106, 48, 48), rgb(48, 82, 48));
     color: white;
 }
 .yak{
